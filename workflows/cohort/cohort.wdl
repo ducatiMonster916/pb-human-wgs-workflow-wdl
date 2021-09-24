@@ -1,4 +1,4 @@
-version 1.0
+/main/version 1.0
 
 import "https://raw.githubusercontent.com/PacificBiosciences/pb-human-wgs-workflow-wdl/dev/workflows/cohort/tasks/pbsv.wdl" as pbsv
 import "https://raw.githubusercontent.com/PacificBiosciences/pb-human-wgs-workflow-wdl/dev/workflows/cohort/tasks/glnexus.wdl" as glnexus

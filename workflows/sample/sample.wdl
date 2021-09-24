@@ -1,4 +1,4 @@
-version 1.0
+/main/version 1.0
 
 #import "./tasks/common.wdl" as common
 #import "./tasks/pbsv.wdl" as pbsv

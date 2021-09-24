@@ -1,4 +1,4 @@
-{
+/main/{
   "WorkflowUrl": "https://raw.githubusercontent.com/PacificBiosciences/pb-human-wgs-workflow-wdl/dev/workflows/cohort/cohort.wdl",
   "WorkflowInputsUrls": [
     "https://raw.githubusercontent.com/PacificBiosciences/pb-human-wgs-workflow-wdl/dev/examples/AshkenazimTrio/cohort/inputs/trial.inputs.json",

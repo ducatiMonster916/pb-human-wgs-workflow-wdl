@@ -1,4 +1,4 @@
-{
+/main/{
   "WorkflowUrl": "https://raw.githubusercontent.com/PacificBiosciences/pb-human-wgs-workflow-wdl/dev/workflows/smrtcells/smrtcells.wdl",
   "WorkflowInputsUrls": [
     "https://raw.githubusercontent.com/PacificBiosciences/pb-human-wgs-workflow-wdl/dev/examples/AshkenazimTrio/smrtcells/inputs/child/m64020_190123_225958.inputs.json",
