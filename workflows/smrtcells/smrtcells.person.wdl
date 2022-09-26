@@ -35,6 +35,6 @@ workflow smrtcells_person {
     String sample_names  = sample.name
     Array[File?] movie_modimers = smrtcells.movie_modimers
     String sample_names  = sample.name
-    Array[String?] parents_names = sample.parents
+    Array[String]? parents_names = sample.parents
   }
 }
